@@ -4,6 +4,14 @@
 
 ---
 
+### Installation
+
+When used with Go modules, use the following import path:
+
+    go get github.com/tnsk/environment
+
+---
+
 ### Usage
 
 
